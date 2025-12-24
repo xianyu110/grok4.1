@@ -1,4 +1,3 @@
-# grok4.1[### 突发！Grok 4.1 刚刚发布，情商拉满，国内免费使用！.md](https://github.com/user-attachments/files/24330226/Grok.4.1.md)
 ### **突发！Grok 4.1 刚刚发布，情商拉满，国内免费使用！**
 
 ![image-20251118082433092](https://restname.oss-cn-hangzhou.aliyuncs.com/image-20251118082433092.png)
